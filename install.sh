@@ -7,7 +7,7 @@ TMP_DIR="$(mktemp -d)"
 trap 'rm -rf "$TMP_DIR"' EXIT
 
 if command -v curl >/dev/null 2>&1; then
-  curl -fsSL "https://github.com/zhichunyang/pedaily-financing-weekly/archive/refs/heads/main.tar.gz" -o "$TMP_DIR/skill.tar.gz"
+  curl -fsSL "https://github.com/shujing321/pedaily-financing-weekly/archive/refs/heads/main.tar.gz" -o "$TMP_DIR/skill.tar.gz"
 else
   echo "curl is required" >&2
   exit 1

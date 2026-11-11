@@ -7,13 +7,13 @@
 macOS/Linux：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zhichunyang/pedaily-financing-weekly/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/shujing321/pedaily-financing-weekly/main/install.sh | bash
 ```
 
 Windows PowerShell：
 
 ```powershell
-irm https://raw.githubusercontent.com/zhichunyang/pedaily-financing-weekly/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/shujing321/pedaily-financing-weekly/main/install.ps1 | iex
 ```
 
 ## 本地安装
