@@ -1,0 +1,4 @@
+interface:
+  display_name: "投资界融资周报"
+  short_description: "按日期区间整理投资界融资事件"
+  default_prompt: "使用投资界融资周报，按指定日期区间和赛道检索一级市场融资事件，核验原文并输出带来源的结构化清单。"
